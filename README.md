@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @webermadelinem
 - 👩🏻‍💻 I’m interested in ... web development, software engineering, & creating 2D games
-- 🌱 I’m currently studying ... software & game development
+- 🌱 I’m currently studying ... software engineering & game development
 - 💞️ I’m looking to collaborate on ... any fun projects!
 - 📫 How to reach me ... webermadelinem@gmail.com 
 
